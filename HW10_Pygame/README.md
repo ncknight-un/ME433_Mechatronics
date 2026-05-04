@@ -1,7 +1,9 @@
 # Custom PyGame (Frogger) using Pico2 W and Button Controlls.
 Demo Video:
 
-https://github.com/user-attachments/assets/762727ce-ebda-4607-a735-8f0d0c25b9f8
+
+https://github.com/user-attachments/assets/987ae166-f740-4bc2-b029-7fba0c3feab1
+
 
 ---
 
