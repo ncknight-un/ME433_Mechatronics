@@ -1,9 +1,7 @@
 # UART Communication between Pico 2W and ST32 Microcontroller
 Demo Video:
 
-
-https://github.com/user-attachments/assets/987ae166-f740-4bc2-b029-7fba0c3feab1
-
+https://github.com/user-attachments/assets/dafecccc-4809-49c0-bada-960cb54d5b13
 
 ---
 
