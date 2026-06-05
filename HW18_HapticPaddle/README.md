@@ -1,4 +1,3 @@
-
 # Haptic Paddle 
 
 I worked with Greg Aiso for this final project. We slit up the work between different components.
@@ -9,6 +8,10 @@ We chose to develop a pygame for the haptic paddle, where the user is trying to 
 
 
 ## Video of Haptic Paddle in Action: 
+
+
+https://github.com/user-attachments/assets/812b61e4-e2be-4b2f-a8ff-c6980c242d45
+
 
 
 ## Diagrams of Current Sensor Haptic Feedback for Obstacles and Roadsides: 
